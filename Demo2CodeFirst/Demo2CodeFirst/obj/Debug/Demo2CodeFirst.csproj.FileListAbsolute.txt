@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\bin\Debug\Demo2CodeFirst.exe.config
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\bin\Debug\Demo2CodeFirst.exe
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\bin\Debug\Demo2CodeFirst.pdb
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\obj\Debug\Demo2CodeFirst.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\obj\Debug\Demo2CodeFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\obj\Debug\Demo2CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\obj\Debug\Demo2CodeFirst.csproj.CopyComplete
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\obj\Debug\Demo2CodeFirst.exe
+C:\Users\HP\source\repos\Demo2CodeFirst\Demo2CodeFirst\obj\Debug\Demo2CodeFirst.pdb
